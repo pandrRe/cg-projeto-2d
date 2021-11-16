@@ -8,6 +8,7 @@ da fonte original, que contém apenas o básico para gerar uma janela.
 
 ## Autores
 
+ - Lucas Roberto de Souza Morais.
  - Pedro Lucas Almeida André.
  - Rafael Pompeu Pantoja.
 
